@@ -11,4 +11,9 @@ layout: layouts/post.njk
 
 ## Week 10
 
+Here is our Protoype that we have mocked up. 
+
 ![View our prototype here](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqfu9iqkk830mp7uyj3b.png)
+
+
+We do not have any other questions at the moment and are looking forward to getting started. 
