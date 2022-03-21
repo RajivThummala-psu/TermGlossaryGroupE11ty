@@ -1,10 +1,10 @@
 ---
 title: Repository Links
 description:  
-date: 2018-08-24
+date: 2020-03-20
 tags:
-  - second tag
-  - posts with two tags
+  - WeeklyCheckIn
+  - Week10
 layout: layouts/post.njk
 ---
 
