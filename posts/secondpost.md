@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title:  Fork of the repo and who is powering our site.
+description: Fork of our repo
 date: 2018-07-04
 tags:
   - number 2
