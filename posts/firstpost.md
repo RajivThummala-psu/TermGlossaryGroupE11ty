@@ -14,7 +14,3 @@ The term glossary microservice project seeks to present vocabulary based on what
 ## Important Links
 
 The link to the project issue is located [here](https://github.com/elmsln/issues/issues/849).
-
-The link to the project repository is located [here](https://github.com/zjohnson10/final-project-vocab).
-
-And finally, the link to the 11ty repo powering this service is located [here](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty).
