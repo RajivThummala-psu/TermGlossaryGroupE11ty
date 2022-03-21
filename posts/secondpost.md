@@ -1,19 +1,15 @@
 ---
-title: NOTES
-description: This is group e's notes. 
+title: Repository Links
+description:  
 date: 2018-08-24
 tags:
   - second tag
   - posts with two tags
 layout: layouts/post.njk
 ---
-<h1> Welcome to our Notes </h1>
 
-## Week 10
+# Important Links
 
-Here is our Protoype that we have mocked up. 
+The link to the project repository is located [here](https://github.com/zjohnson10/final-project-vocab).
 
-![View our prototype here](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqfu9iqkk830mp7uyj3b.png)
-
-
-We do not have any other questions at the moment and are looking forward to getting started. 
+And finally, the link to the 11ty repo powering this service is located [here](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty).
