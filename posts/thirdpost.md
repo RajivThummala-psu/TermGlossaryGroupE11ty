@@ -11,5 +11,5 @@ layout: layouts/post.njk
 
 ## Week 10
 
- [![image alt text](https://drive.google.com/file/d/1NJnjuWCF7O2sBbYzbtnCso0Zj1DlTPDi/view?usp=sharing)](anchor link)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
