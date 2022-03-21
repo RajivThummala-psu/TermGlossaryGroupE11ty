@@ -11,9 +11,5 @@ layout: layouts/post.njk
 
 ## Week 10
 
-<body>
-  
-   <iframe src="https://drive.google.com/file/d/1GzrE-RLUn8gKXar-oI50do8D739Kff_S/view" width="100%" height="500px">
-    </iframe>
-  
-  </body>
+ [![image alt text](https://drive.google.com/file/d/1NJnjuWCF7O2sBbYzbtnCso0Zj1DlTPDi/view?usp=sharing)](anchor link)
+
