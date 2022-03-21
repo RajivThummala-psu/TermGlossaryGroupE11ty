@@ -11,5 +11,4 @@ layout: layouts/post.njk
 
 ## Week 10
 
-[<img src="https://imgur.com/a/KZDsZhN">]https://imgur.com/)
-
+![View our prototype here](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqfu9iqkk830mp7uyj3b.png)
