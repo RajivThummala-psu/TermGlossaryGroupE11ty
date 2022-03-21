@@ -1,9 +1,10 @@
 ---
 title: Term Glossary
 description: A description of the term glossary project. 
-date: 2018-05-01
+date: 2020-03-20
 tags:
   - WeeklyCheckIn
+  - Week10
 layout: layouts/post.njk
 ---
 
