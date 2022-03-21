@@ -1,19 +1,20 @@
 ---
-title: Describing our Project
-description: This is our adumbration of the project we have selected. 
+title: Term Glossary
+description: A description of the term glossary project. 
 date: 2018-05-01
 tags:
-  - another tag
+  - WeeklyCheckIn
 layout: layouts/post.njk
 ---
-Because we have #848 that means we have some options for how best to present a vocabulary term in context of material. What we need now is a microservice that can draw from a data store of words, have words added to it, return ALL the words (as 1 big list if asked) and also identify words in text so that it could automatically apply the vocab term tag to it.
 
+## Description
 
+The term glossary microservice project seeks to present vocabulary based on what a user adds to a page. This draws on previous work which created methods to present vocabulary terms in context of the given material, [linked here](https://github.com/elmsln/issues/issues/848). Therefore, the project seeks to be able to dynamically store and process vocabulary terms to improve a user's productivity. 
 
-## How Group E will accomplish this goal. 
+## Important Links
 
-add something here
+The link to the project issue is located [here](https://github.com/elmsln/issues/issues/849).
 
- [Here is the issue that we selected.](https://github.com/elmsln/issues/issues/849)
+The link to the project repository is located [here](https://github.com/zjohnson10/final-project-vocab).
 
-
+And finally, the link to the 11ty repo powering this service is located [here](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty).
