@@ -1,6 +1,6 @@
 ---
 title: NOTES
-description: This is a post on My Blog about win-win survival strategies.
+description: This is group e's notes. 
 date: 2018-08-24
 tags:
   - second tag
@@ -11,8 +11,9 @@ layout: layouts/post.njk
 
 ## Week 10
 
-<object data="https://drive.google.com/file/d/1GzrE-RLUn8gKXar-oI50do8D739Kff_S/view?usp=sharing" type="application/pdf" width="700px" height="700px">
-    <embed src="https://drive.google.com/file/d/1GzrE-RLUn8gKXar-oI50do8D739Kff_S/view?usp=sharing">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<body>
+  
+   <iframe src="https://drive.google.com/file/d/1GzrE-RLUn8gKXar-oI50do8D739Kff_S/view" width="100%" height="500px">
+    </iframe>
+  
+  </body>
