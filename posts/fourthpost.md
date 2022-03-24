@@ -1,6 +1,6 @@
 ---
 title: Project Updates
-description: Group E's project updates: updates, progress made, visuals created, ...
+description: Group E's project updates: updates, progress made, visuals created
 date: 2022-03-20
 tags:
   - WeeklyCheckIn
