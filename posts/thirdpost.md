@@ -3,9 +3,10 @@ title: NOTES
 description: This is group e's notes. 
 date: 2022-03-20
 tags:
-  - WeeklyCheckIn
+  - Weekly Check In
   - Week10
-  - DesignNotes
+  - Design Notes
+  - Questions
 layout: layouts/post.njk
 ---
 <h1> Welcome to our Notes </h1>
