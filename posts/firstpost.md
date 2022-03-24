@@ -1,7 +1,7 @@
 ---
-title: Term Glossary
+title: Project Description
 description: A description of the term glossary project. 
-date: 2020-03-20
+date: 2022-03-20
 tags:
   - WeeklyCheckIn
   - Week10
