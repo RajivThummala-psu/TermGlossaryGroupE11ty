@@ -3,7 +3,7 @@ title: Project Description
 description: A description of the term glossary project. 
 date: 2022-03-20
 tags:
-  - WeeklyCheckIn
+  - Weekly Check In
   - Week10
 layout: layouts/post.njk
 ---
