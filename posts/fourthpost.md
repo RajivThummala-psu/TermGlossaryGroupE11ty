@@ -24,9 +24,7 @@ USERFLOW IMAGE 1
 
 USERFLOW IMAGE 2
 
-A sample JSON response was also created, shown below.
-
-SAMPLE JSON RESPONSE
+A sample JSON response was also created, [linked here](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty/blob/main/sample.json).
 
 ### Front-End
 On the front-end side, we chose to start working through [Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html) in order to help implement our front-facing design. Dreamweaver is a powerful web dev IDE which enables us to more easily try out different designs to find the best one. 
