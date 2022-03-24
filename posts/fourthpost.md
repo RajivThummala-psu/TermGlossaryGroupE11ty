@@ -1,8 +1,8 @@
 ---
 title: Project Updates
-date: 2022-03-20
+date: 2022-03-27
 tags:
-  - WeeklyCheckIn
+  - Weekly Check In
   - Week11
   - Updates
 layout: layouts/post.njk
