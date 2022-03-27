@@ -9,10 +9,6 @@ layout: layouts/post.njk
 ---
 # Week 11
 
-## General Updates
-- planetscale
-- Adobe Dreamweaver
-
 ## Progress Made
 
 ### Back-End
