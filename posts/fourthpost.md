@@ -31,4 +31,4 @@ On the front-end side, we chose to start working through [Adobe Dreamweaver](htt
 
 In addition to this work, we know that having appropriate visuals helps to make the project more cohesive and polished. As such, we spent some time in Adobe Photoshop creating Vocab Glossary visuals to improve the project's aesthetics as part of the front-end design.
 
-PUT GIF HERE
+You can see them displayed at this [link](https://rajivthummala-psu.github.io/frontEndAttempt1/)
