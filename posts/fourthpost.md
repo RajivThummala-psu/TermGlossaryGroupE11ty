@@ -16,9 +16,9 @@ We started to implement PlanetScale into our back-end databases. We chose to use
 
 We also started to create our user-flow images which help us keep our project well-structured, shown below.
 
-![Add Word Userflow](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty/blob/main/img/addword.drawio.png)
+![Add Word Userflow](https://ibb.co/nwDtxp9)
 
-![All Vocab Userflow](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty/blob/main/img/allvocab.drawio.png)
+![All Vocab Userflow](https://ibb.co/6nHvNjn)
 
 A sample JSON response was also created, [linked here](https://github.com/RajivThummala-psu/TermGlossaryGroupE11ty/blob/main/sample.json).
 
