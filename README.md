@@ -1,3 +1,3 @@
-##Check in Number 2
-
-Linked is the repo to our initial live mockup of our prototype: https://rajivthummala-psu.github.io/frontEndAttempt1/
+# Check In 2
+Linked is our main repo where we have been pusing updates: https://github.com/zjohnson10/final-project-vocab
+Linked is our initial live mockup of our prototype: https://rajivthummala-psu.github.io/frontEndAttempt1/
