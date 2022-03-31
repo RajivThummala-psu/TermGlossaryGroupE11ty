@@ -9,16 +9,13 @@ layout: layouts/post.njk
 ---
 # Week 12 Progress
 
-## API / Project Management
-connecting website to backend
+## End Points (Back-End + API/PM)
 
-## Back-End
+TALK ABOUT API/PM Work here
 
-adding functionality to assets created
-creating database
+Currently, the end point that is undergoing the most level of development is the database. By using a combination of PlanetScale and Vercel, we were able to create a database which functions to take in data from the front end and store it. This week, we worked on the movement of data and information. By making sure data flows properly, we can set up our endpoints to function properly __as part of a working ecosystem of services__, not as individual units.
 
-
-## Front-End
+## Front-End Assets 
 
 Going off of the structure we created through Adobe Dreamweaver, and a new tool called Nicepage Desktop, we were able to start adding in our assets into the overall front-end structure. The simple "waterfall" design of the web page allows for easily compartmentalizable sections that can be quickly adjusted without affecting the entire document. 
 
@@ -32,4 +29,4 @@ The final section, in a contrasting and pleasing blue, focuses on the other serv
 
 We also include a way to see the full glossary in the page. When the button is clicked, it will redirect the user to a page containing the full glossary. The happy animations within this section help the user to feel confident and comfortable in accessing the full glossary showing them that learning about vocab is fun and entertaining after all.
 
-Currently, code for both the "Add Word" and "Process" buttons are in the process of being implemented, while the "View Glossary" button is a later priority.
+Currently, code for both the "Add Word" and "Process" buttons are in the process of being implemented, while the "View Glossary" button is a later priority. We understand that the visuals may distract from the development, so a "low-tech" version of our app also exists, which has no unnecessary bling and can be used for focused development and testing.
