@@ -12,5 +12,4 @@ layout: layouts/post.njk
 ## Week 11
 
 ### Questions
-
-### Future Steps
+We have no questions at this time.
