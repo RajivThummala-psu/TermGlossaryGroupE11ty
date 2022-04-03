@@ -11,9 +11,21 @@ layout: layouts/post.njk
 
 ## End Points (Back-End + API/PM)
 
-TALK ABOUT API/PM Work here
+We are currently working off of a two endpoint plan and seek to keep/expand it in the future based on our changing needs.
 
-Currently, the end point that is undergoing the most level of development is the database. By using a combination of PlanetScale and Vercel, we were able to create a database which functions to take in data from the front end and store it. This week, we worked on the movement of data and information. By making sure data flows properly, we can set up our endpoints to function properly __as part of a working ecosystem of services__, not as individual units.
+vocab.js
+- Located in /api
+- Communicates with Planetscale and our microfrontend
+- It requires an action from our microfrontend (CREATE or READ)
+- Returns all vocab words, one vocab word, or creates a new vocab word in Planetscale based on action input
+
+vocab-term.js
+- Located in /src
+- Gets values/button clicks from frontend, processes them to go to Planetscale or to be shown on frontend, and communicates with vocab.js to work with Planetscale
+- It requires input from the frontend (word, description, any links to create word, an HTML element to 'define' with vocab, option to show all vocab)
+- It returns a single vocab-term formatted element to the frontend or every vocab-term at once
+
+Currently, we are focusing on vocab-term.js. We have currently created a sample response within our render function for primary testing, although we have also created the frameworks that should allow for it to easily become generalized. Some of this work can be seen [here](https://github.com/zjohnson10/final-project-vocab/blob/main/src/vocab-term.js).
 
 ## Front-End Assets 
 
